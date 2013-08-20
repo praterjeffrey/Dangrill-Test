@@ -1,0 +1,32 @@
+/*
+Theme Name: Jprater
+Theme URI: http://teamtreehouse.com/wordpress-bootstrap-theme-tutorial
+Description: A demo theme built to accompany the Treehouse blog post <a href="http://teamtreehouse.com/wordpress-bootstrap-theme-tutorial">How to Build a WordPress Theme with Bootstrap</a>.
+Author: Jeff Prater with benefit from Zac Gordon
+Author URI: jprater.com
+Version: 1.0
+Tags: jeff prater
+
+License: Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
+License URI: http://creativecommons.org/licenses/by-sa/3.0/
+
+*/
+
+@import url('http://localhost:8888/jprater/wp-content/themes/jprater/bootstrap-3/assets/less/bootstrap.less'); 
+
+body {  
+}
+
+ 
+.start {margin: 0 auto; background: none; text-align: center; margin-top: 60px; padding-bottom: 80px; }
+
+.carousel {max-height: 500px; overflow: hidden;}
+
+.carousel img {  width: 100%; height: auto; overflow:hidden;}
+
+footer {background: blue; width: 100%; padding-top: 50px; padding-bottom: 50px; background-color: #e2e2e2;}
+
+
+
+
+.navbar-brand img {}
