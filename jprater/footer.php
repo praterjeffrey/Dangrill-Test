@@ -2,6 +2,8 @@
       <!-- FOOTER -->
       <footer>
                 <div class="container marketing">
+                
+               <!--  a change -->
 
       <!-- Three columns of text below the carousel -->
       <div class="row">
